@@ -1,0 +1,13 @@
+node_modules
+.env
+
+#Hardhat files
+/.idea/
+*.DS_Store
+*.dbg.json
+/artifacts/
+/typechain/
+/artifacts/
+/deployments/
+/cache/
+/package-lock.json
